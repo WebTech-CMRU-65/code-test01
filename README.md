@@ -62,7 +62,7 @@ $ npm install -g firebase-tools
 ```
 ป้อนคำสั่ง Login Firebase
 ```bash
-$ npm install -g firebase-tools
+$ firebase login
 ```
 > [!WARNING]
 > ถ้าเจอ Error ให้ใช้คำสั่งนี้ -> ```$ Set-ExecutionPolicy RemoteSigned```<br>
